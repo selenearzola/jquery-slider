@@ -1,0 +1,1 @@
+A simple Slider using jQuery library, link: https://selenearzola.github.io/jquery-slider/
